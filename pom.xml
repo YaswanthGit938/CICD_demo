@@ -12,6 +12,8 @@
 		<groupId>com.mycompany</groupId>
 		<artifactId>cicd-demo-parent-pom</artifactId>
 		<version>1.0.0</version>
+		<relativePath>../cicd-demo-parent-pom/pom.xml</relativePath>
+		
 	</parent> 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
